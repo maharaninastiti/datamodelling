@@ -1,0 +1,21 @@
+ID Partner;Rating;Jumlah Pengguna;Tipe Layanan;Gender;Revenue;Number of Employees;Customer Satisfaction;Years in Business
+1;4.5;1200;Logistik;Male;500000;100;8;10
+2;4.7;800;Pembayaran;Female;300000;50;9;8
+3;4.8;650;Pemasaran;Male;250000;30;9;7
+4;4.6;500;Manajemen Inventori;Female;200000;40;8;6
+5;4.9;300;Analisis Data;Male;150000;25;10;5
+6;4.3;900;Logistik;Female;450000;80;7;9
+7;4.4;700;Pembayaran;Male;350000;60;8;7
+8;4.6;750;Pemasaran;Female;300000;55;8;8
+9;4.5;600;Manajemen Inventori;Male;250000;35;7;6
+10;4.7;450;Analisis Data;Female;200000;28;9;5
+11;4.8;1000;Logistik;Male;600000;120;10;10
+12;4.9;850;Pembayaran;Female;400000;75;9;9
+13;4.6;700;Pemasaran;Male;300000;50;8;8
+14;4.4;550;Manajemen Inventori;Female;250000;45;7;6
+15;4.7;350;Analisis Data;Male;150000;20;9;5
+16;4.6;950;Logistik;Female;500000;110;8;10
+17;4.5;800;Pembayaran;Male;400000;65;9;9
+18;4.6;700;Pemasaran;Female;300000;50;8;7
+19;4.3;600;Manajemen Inventori;Male;250000;40;7;6
+20;4.8;500;Analisis Data;Female;200000;30;10;5
